@@ -1,0 +1,1 @@
+# Implementation-of-Static-Routing-with-four-networks-using-Cisco-Packet-Tracer
