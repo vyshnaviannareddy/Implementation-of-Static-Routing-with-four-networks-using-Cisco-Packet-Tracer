@@ -7,7 +7,7 @@
 
 A complete simulation project focusing on designing, configuring, and verifying static routing across four distinct network segments using Cisco 1841 routers and 2960 switches in Cisco Packet Tracer.
 
-div>
+</div>
 ---
 
 ## 📸 Project Simulation outputs
