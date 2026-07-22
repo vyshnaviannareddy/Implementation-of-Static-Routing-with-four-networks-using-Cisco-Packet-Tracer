@@ -52,7 +52,7 @@ A complete simulation project focusing on designing, configuring, and verifying 
   |  (192.168.4.3)   |         |        (Layer 2)         |         |     (Router 4)    |
   +------------------+         +--------------------------+         +-------------------+
 
-
+```
 
 ## 🗺️ Network Addressing Scheme
 
@@ -88,7 +88,7 @@ Implementation-of-Static-Routing-with-four-networks-using-Cisco-Packet-Tracer/
 │
 ├── ciscostatic4network.pkt                      # Cisco Packet Tracer project file
 └── README.md                                    # Project documentation
-
+```
 
 ## 🚀 How to Run & Test
 1. Open **Cisco Packet Tracer**.
